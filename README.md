@@ -1,4 +1,5 @@
-#Modern Chair Responsive Website
+##Modern Chair Responsive project
+
 This repository contains a fully responsive website for showcasing modern chairs. The website is built using HTML and CSS and is designed to adapt to various screen sizes, providing an optimal user experience on both desktop and mobile devices.
 
 Features
